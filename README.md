@@ -22,7 +22,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 <h3>Адаптивность под различные мобильные устройства<h3/>
 
-![adaptiveMobile](https://user-images.githubusercontent.com/93074634/210863137-ed0ead59-7ead-45b3-8bf7-b2bd62befe9f.gif)
+![adaptiveMobile](https://user-images.githubusercontent.com/93074634/210865138-81a64a65-5547-447e-9a97-d0d7ac98b554.gif)
 <br/>
 
 #### В процессе разработки на Vue 3 использовалось Composition API
