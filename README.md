@@ -11,8 +11,9 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 #### Стек: Vue 3.2.45 | vite 4.0.0 | autoprefixer 10.4.13 | postcss 8.4.20 | tailwindcss 3.2.4 | @vitejs/plugin-vue 4.0.0
 
 <h3>Страница с возможным функционалом</h3>
+
 Возможность переключения меню навигации, подписок на все категории и по отдельности 
-![klerk-desktop](https://user-images.githubusercontent.com/93074634/210861731-a377cfe4-7d02-427e-aa0b-063aca41abaa.gif)
+![klerk-desktop](https://user-images.githubusercontent.com/93074634/211479923-21b1c08a-4a38-4c5f-92c3-41da9319309f.gif)
 <br/>
 
 <h3>Адаптивность под различную диагональ экрана пк<h3>
